@@ -5,6 +5,6 @@
    https://pokeapi.co/api/v2/pokemon?offset=$0&limit=$10
 
 
-## Carried out while a student at Dio.me:
+1-**Carried out while a student at Dio.me**:
 
 - License: [LICENSE](LICENSE)
